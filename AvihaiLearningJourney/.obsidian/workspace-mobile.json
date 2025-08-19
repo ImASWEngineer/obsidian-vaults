@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "43580e6d90b624c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6df11ab056cefb5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096d211c0ae6a320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase (DB) with Annotations/DB+Mark A. McDaniel+Make it stick.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DB+Mark A. McDaniel+Make it stick"
+            }
+          },
+          {
+            "id": "e8ce3f6bc7b1c0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raw DataBase and References/DB+Jeffrey Kaplan+How to read so that you retain information.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DB+Jeffrey Kaplan+How to read so that you retain information"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49657ce44a3a0aba",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "808eef56940a0ec3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "41f37a554f572bc2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d33592f876c7da8a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "33920a7c873c5345",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0b3a6337afa034c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "727adf5ed88e7ef1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Raw DataBase and References/DB+Jeffrey Kaplan+How to read so that you retain information.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5a6964d6b1d9c17c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Limitless.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f879b9347eb3b689",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "DataBase (DB) with Annotations/DB+Mark A. McDaniel+Make it stick.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "096d211c0ae6a320",
+  "lastOpenFiles": [
+    "DataBase (DB) with Annotations/DB+Jeffrey Kaplan+How to read so that you retain information.md",
+    "DataBase (DB) with Annotations/DB+Mark A. McDaniel+Make it stick.md",
+    "Attachments/Sketch+Interleaving topics+Workflow.md",
+    "DataBase (DB) with Annotations/DB+Justing Sung+What I Learned After 10,000 Hours of Studying.md",
+    "[].md",
+    "DB annotations for digesting notes/DB+Annotations+Mark A. McDaniel+Make it stick/Ann+1+Preface+ix+1st.md",
+    "Ann+2+Preface+x+1st.md",
+    "Make it stick.md",
+    "Untitled.md",
+    "DataBase (DB) with Annotations/DB+Python Programmer+Obsidian The Most Powerful Learning Technology in History.md",
+    "DB annotations for digesting notes",
+    "DB annotations for digesting notes/DB+Annotations+Mark A. McDaniel+Make it stick",
+    "Processed Knowledege/Marginalia.md",
+    "Processed Knowledege/Mind map.md",
+    "Processed Knowledege/Learning strategies.md",
+    "Processed Knowledege/Cram material.md",
+    "Processed Knowledege/Learning styles.md",
+    "DataBase (DB) with Annotations/DB+Unknown+Zettelkasten Method.md",
+    "Processed Knowledege/Learning.md",
+    "Processed Knowledege/Solving problems.md",
+    "Processed Knowledege/Interleaving topics.md",
+    "Processed Knowledege/Spaced repetitions.md",
+    "Processed Knowledege/Retrieval Practice.md",
+    "Processed Knowledege/Re-reading strategy.md",
+    "Processed Knowledege/Pictures superiority effect.md",
+    "Processed Knowledege/Learning plan.md",
+    "Processed Knowledege/Flash cards.md",
+    "Processed Knowledege/First principal thinking.md",
+    "Excalidraw"
+  ]
+}

@@ -1,0 +1,2 @@
+- Auditory /Textual/ Hearing/ Reading / learn by doing/ using pictures
+- use them all for learning! - Go Wide!

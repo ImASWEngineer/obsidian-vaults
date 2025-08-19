@@ -1,0 +1,2 @@
+- The formatting of each note name is "AttachmentType+OriginalNoteName+NameOfAttachment"
+	- For example "Image+Flash Cards+Examples"

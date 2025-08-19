@@ -1,0 +1,1 @@
+Older study methods are widely used but obsolete in contrast to less intuitive and most effective researched techniques

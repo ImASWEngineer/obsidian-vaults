@@ -1,0 +1,82 @@
+{
+  "path": ".smart-env/smart_threads/Chat1.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1741210922178,
+  "responses": {},
+  "messages": {
+    "user-1-1741210929795-1": 1,
+    "user-2-1741211968677-1": 2
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Chat1",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Chat1",
+      "content": [
+        {
+          "type": "text",
+          "text": "Hi"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1741210929795-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1741210929795-1",
+      "key": "Chat1#user-1-1741210929795-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Chat1",
+      "content": [
+        {
+          "type": "text",
+          "text": "Based on this note please find connections to other notes"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "user-2-1741211968677-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1741211968677-1",
+      "key": "Chat1#user-2-1741211968677-1"
+    }
+  ]
+}

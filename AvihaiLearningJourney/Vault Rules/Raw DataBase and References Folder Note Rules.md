@@ -1,0 +1,2 @@
+- The formatting of each note name is "DB+AuthorName+TitleOfReferenceOrDB"
+	- For example "DB+Justing Sung+What I Learned After 10,000 Hours of Studying"

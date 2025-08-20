@@ -1,1 +1,0 @@
-- Pictures and Images are more likely to be remembered than words

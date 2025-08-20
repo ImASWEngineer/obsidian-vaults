@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "6673280ae5517a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a507b5d90d5c8ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eef28002c642580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "avihai-learning-journey/notes-permanent/Mind map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mind map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfd7908be2483c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "356a0ad4dbfa60bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12942109347b1638",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97227662cd26e8a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b1e8de89d74f69b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 696.5110321044922
+  },
+  "right": {
+    "id": "1421923a127dda2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "285dadf2ecd783bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8313a2826dcefc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "avihai-learning-journey/notes-permanent/Mind map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mind map"
+            }
+          },
+          {
+            "id": "30bf25ace0ebe479",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "avihai-learning-journey/notes-permanent/Mind map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mind map"
+            }
+          },
+          {
+            "id": "d3f48998be61a4b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "145f504ffb0537dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "avihai-learning-journey/notes-permanent/Mind map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mind map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "12942109347b1638",
+  "lastOpenFiles": [
+    "avihai-learning-journey/notes-fleeting/Automating the learning procedure.md",
+    "avihai-learning-journey/notes-permanent/Do not create a learning debt.md",
+    "avihai-learning-journey/notes-permanent/First principal thinking.md",
+    "avihai-learning-journey/notes-fleeting/task-pdf-to-markdown-converter.md",
+    "avihai-learning-journey/notes-fleeting/code-style-guide.md",
+    "avihai-learning-journey/notes-fleeting/data-collection-design.md",
+    "avihai-learning-journey/notes-fleeting/python-developer-guide.md",
+    "avihai-learning-journey/notes-fleeting/stocks-course-fundamentals-1st.md",
+    "avihai-learning-journey/notes-fleeting/bmad-full-sdlc-workflow.md",
+    "avihai-learning-journey/notes-fleeting/bmad-using-langchaing-w-adk.md",
+    "avihai-learning-journey/notes-fleeting/Untitled.md",
+    "avihai-learning-journey/notes-fleeting/agent-brain-command-protocol.md",
+    "README.md",
+    "avihai-learning-journey/vault-rules/Attachments Folder Note Rules.md",
+    "avihai-learning-journey/references/DB+BMAD+The-Official-BMad-Method-Masterclass-The-Complete-IDE-Workflow.md",
+    "avihai-learning-journey/notes-fleeting/First section.md",
+    "avihai-learning-journey/references/DB+udemy+investing-in-stocks-the-complete-course.md",
+    "avihai-learning-journey/Resources/Image+Flash cards+Examples.png",
+    "avihai-learning-journey/References/DB+Jeffrey Kaplan+How to read so that you retain information 1.md",
+    "avihai-learning-journey/References/DB+Unknown+Zettelkasten Method 1.md",
+    "avihai-learning-journey/References/DB+Mark A. McDaniel+Make it stick 1.md",
+    "avihai-learning-journey/References/DB+Python Programmer+You_re not stupid How to learn difficult things with Obsidian 1.md",
+    "avihai-learning-journey/References/DB+Python Programmer+Obsidian The Most Powerful Learning Technology in History 1.md",
+    "avihai-learning-journey/references/DB+Justing Sung+What I Learned After 10,000 Hours of Studying.md",
+    "avihai-learning-journey/References/DB+Justing Sung+What I Learned After 10,000 Hours of Studying 1.md",
+    "avihai-learning-journey/Resources/Sketch+Interleaving topics+Workflow.md",
+    "avihai-learning-journey/notes-fleeting/zettlekasten-dbms.md",
+    "avihai-learning-journey/artifacts/image-flash-cards-Examples.png"
+  ]
+}

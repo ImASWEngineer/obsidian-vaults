@@ -1,2 +1,0 @@
-- Trying to solve a problem before being thought the solution is far better for learning
--  - skip over the errors, its worth it
